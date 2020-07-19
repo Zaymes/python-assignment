@@ -1,0 +1,10 @@
+u_id,fname,lname,course,gender,adress,email,phone,paid,due
+1,James,Shrestha,Software Engineering Overview,male,balaju,james@.com,2222222222,20000,0
+2,James,Shrestha,Software Engineering Overview,male,balaju,james@.com,2222222222,10000,10000
+3,ram,shrestha,Python,male,balaju,jam.com,2222222222,20000,10000
+5,James,Shrestha,Software Engineering Overview,male,balaju,james@.com,2222222222,10000,10000
+6,James,Shrestha,Python,male,balaju,james@.com,2222222222,10000,10000
+7,James,Shrestha,Python,male,balaju,james@.com,2222222222,20000,0
+8,James,Shrestha,React,male,balaju,james@.com,2222222222,20000,0
+9,ram,narayan,Django,male,balaju,ram@gmail.com,2222222222,20000,0
+10,ram,yadav,HTML CSS and JS,male,narayanhiti,ram@nepal.com,2222222222,10000,10000
